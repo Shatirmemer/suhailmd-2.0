@@ -11,10 +11,10 @@ global.email ="saimsamsun789@gmail.com"
 global.location="Lahore,Pakistan."
 
 
-global.mongodb= process.env.MONGODB_URI || "false" || "mongodb+srv://nimafree:nimafree@nimafree.ae8e2.mongodb.net/"
+global.mongodb= process.env.MONGODB_URI || "false" || "mongodb+srv://ponnapkaya1:CUfG1C4P0RUfFsSk@cluster0.7qsf0.mongodb.net/"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
-global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://nimafree:nimafree@nimafree.ae8e2.mongodb.net/"
+global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://ponnapkaya1:CUfG1C4P0RUfFsSk@cluster0.7qsf0.mongodb.net/"
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/suhailmd-2.0";
@@ -101,7 +101,7 @@ module.exports = {
 
 
 global.ELEVENLAB_API_KEY = process.env.ELEVENLAB_API_KEY || "sk_de62f0fba589163cbb3b221d7d3dbeb7227f8d6a62f9822c";
-global.aitts_Voice_Id = process.env.AITTS_ID|| "37";
+global.aitts_Voice_Id = process.env.AITTS_ID|| "21";
 
 
 
